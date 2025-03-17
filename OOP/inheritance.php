@@ -20,6 +20,7 @@ class Animal {
     }
 }
 
+// class တွေကော Method တွေကော လှမ်းခေါ်ချင်တဲ့အခါ သုံးမယ်
 // Child class
 class Dog extends Animal {
     public function bark() {
